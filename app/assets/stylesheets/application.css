@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+.container {
+  margin: 50px;
+  width: 600px;
+}
+
+ body {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ a {
+  text-decoration: none;
+  }
+
+ .aligned_element{
+  display: flex;
+ }
+
+ h1 {
+  font-family: fantasy;
+  background-color: aliceblue;
+
+ }
